@@ -1,2 +1,0 @@
-# Walkers
-Walkers Mod
