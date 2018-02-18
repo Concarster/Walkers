@@ -1,0 +1,17 @@
+#Tabs
+itemGroup.mainTab=Main
+itemGroup.mainBlocks=Blocks
+itemGroup.mainItems=Items
+itemGroup.mainTools=Tools
+itemGroup.mainArmors=Armors
+itemGroup.mainWeapons=Weapons
+
+#Blocks
+tile.block_main.name=Main Block
+tile.block_mini_iron.name=MiniBlock of Iron
+tile.block_mini_gold.name=MiniBlock of Gold
+tile.block_mini_emerald.name=MiniBlock of Emerald
+tile.block_mini_diamond.name=MiniBlock of Diamond
+
+#Items
+item.item_main.name=Main Item
